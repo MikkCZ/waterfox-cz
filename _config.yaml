@@ -1,0 +1,14 @@
+title: Waterfox.cz
+description: Český rozcestník Waterfox
+
+logo: /assets/img/waterfox-logo-128.png
+show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
