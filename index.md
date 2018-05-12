@@ -5,7 +5,7 @@ layout: default
 # {{ site.description }}
 
 ## Co je Waterfox?
-Waterfox je internetový prohlížeč založený na [Firefoxu](https://www.firefox.cz/) a jeho ESR verzích s rozšířenou podporou. Oproti Firefoxu stále udržuje podporu zásuvných modulů [NPAPI](https://cs.wikipedia.org/wiki/Netscape_Plugin_Application_Programming_Interface) a doplňků používajících technologii [XUL](https://cs.wikipedia.org/wiki/XUL). Podporu této technologie už Firefox [odstranil jako zastaralou](https://support.mozilla.org/cs/kb/modernizace-technologie-pro-tvorbu-doplnku-pro-fir).
+Waterfox je internetový prohlížeč založený na [Firefoxu](https://www.firefox.cz/) a jeho [ESR verzích](https://www.mozilla.org/firefox/organizations/). Waterfox stále udržuje podporu zásuvných modulů [NPAPI](https://cs.wikipedia.org/wiki/Netscape_Plugin_Application_Programming_Interface) a doplňků používajících technologii [XUL](https://cs.wikipedia.org/wiki/XUL). Podporu této technologie už Firefox [odstranil jako zastaralou](https://support.mozilla.org/cs/kb/modernizace-technologie-pro-tvorbu-doplnku-pro-fir).
 
 Oproti Firefoxu naopak Waterfox neobsahuje:
 - [Pocket](https://support.mozilla.org/cs/kb/ulozeni-webovych-stranek-na-pozdeji-pomoci-sluzby-) pro ukládání obsahu k pozdějšímu přečtení
