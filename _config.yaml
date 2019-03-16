@@ -11,5 +11,6 @@ theme: jekyll-theme-minimal
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
   - LICENSE
   - README.md

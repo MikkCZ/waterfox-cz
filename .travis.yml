@@ -1,14 +1,12 @@
 language: ruby
-
-install:
- - bundle install
- - gem install html-proofer -v '~> 3.8'
+bundler_args: --path $HOME/.bundle --with test
+cache:
+  directories:
+    - $HOME/.bundle
 
 script:
  - bundle exec jekyll build
- - cd _site
- - htmlproofer . --disable-external
- - cd -
+ - bundle exec htmlproofer '_site' --disable-external
 
 deploy:
 - provider: pages
@@ -21,7 +19,3 @@ deploy:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
-cache: bundler
