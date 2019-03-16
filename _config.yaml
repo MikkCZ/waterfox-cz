@@ -2,6 +2,7 @@ title: Waterfox.cz
 description: Český rozcestník Waterfox
 
 logo: /assets/img/waterfox-logo-128.png
+lang: cs
 show_downloads: false
 google_analytics: UA-119108218-1
 
@@ -14,3 +15,6 @@ exclude:
   - vendor
   - LICENSE
   - README.md
+plugins:
+  - jekyll-seo-tag
+  - jekyll-tidy
