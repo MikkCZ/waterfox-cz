@@ -15,7 +15,7 @@ Oproti Firefoxu naopak Waterfox neobsahuje:
 - některé další funkce, které ještě nejsou ve Firefoxu ESR
 
 ## Kde stáhnout?
-Waterfox můžete stáhnout z oficiálních stránek [waterfoxproject.org](https://www.waterfoxproject.org/waterfox/new/).
+Waterfox můžete stáhnout z oficiálních stránek [waterfox.net](https://www.waterfox.net/releases/).
 
 ## Jak nastavit češtinu?
 Waterfox je ve výchozím stavu v angličtině. Pro změnu jeho jazyka na češtinu postupujte následovně:
