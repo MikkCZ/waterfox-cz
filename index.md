@@ -8,10 +8,10 @@ layout: default
 Waterfox je internetový prohlížeč založený na [Firefoxu](https://www.firefox.cz/).
 
 ### Verze Classic
-Klasická verze Waterfoxu je založená na [ESR verzích](https://www.mozilla.org/firefox/organizations/) Firefoxu. Stále udržuje podporu zásuvných modulů [NPAPI](https://cs.wikipedia.org/wiki/Netscape_Plugin_Application_Programming_Interface) a doplňků používajících technologii [XUL](https://cs.wikipedia.org/wiki/XUL). Podporu této technologie už Firefox [odstranil jako zastaralou](https://support.mozilla.org/cs/kb/modernizace-technologie-pro-tvorbu-doplnku-pro-fir).
+Klasická verze Waterfoxu je založená na starších [ESR verzích](https://www.mozilla.org/firefox/organizations/) Firefoxu (cca verze 56). Stále udržuje podporu zásuvných modulů [NPAPI](https://cs.wikipedia.org/wiki/Netscape_Plugin_Application_Programming_Interface) a doplňků používajících technologii [XUL](https://cs.wikipedia.org/wiki/XUL). Podporu této technologie už Firefox [odstranil jako zastaralou](https://support.mozilla.org/cs/kb/modernizace-technologie-pro-tvorbu-doplnku-pro-fir).
 
 ### Verze Current
-Verze označovaná jako "Current" následuje více běžné verze Firefoxu, ale zatím je označena jen jako testovací.
+Verze označovaná jako "Current" se snaží udržet kompatibilitu s technologiemi klasické verze na základech aktuálního Firefoxu a přinést tak nové funkce. Zatím je ale považována za testovací.
 
 Oproti Firefoxu naopak Waterfox neobsahuje:
 - [Pocket](https://support.mozilla.org/cs/kb/ulozeni-webovych-stranek-na-pozdeji-pomoci-sluzby-) pro ukládání obsahu k pozdějšímu přečtení
